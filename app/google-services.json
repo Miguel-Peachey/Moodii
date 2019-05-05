@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910603882461",
+    "firebase_url": "https://moodii-8e35f.firebaseio.com",
+    "project_id": "moodii-8e35f",
+    "storage_bucket": "moodii-8e35f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910603882461:android:209686fb182d2701",
+        "android_client_info": {
+          "package_name": "com.miguel.moodii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910603882461-g82ib8ifd7csi1020547cgqcpn1ga1uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miguel.moodii",
+            "certificate_hash": "5ffab768aee0066385ef97325565791452f382ed"
+          }
+        },
+        {
+          "client_id": "910603882461-uaa87fr5l20vlbasbahlorc9a9gtefqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Mfn8s10Zacuwg-OgpmdAKIQUaHw1duA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910603882461-uaa87fr5l20vlbasbahlorc9a9gtefqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
